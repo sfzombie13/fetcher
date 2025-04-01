@@ -39,6 +39,11 @@ Fetcher is a self-contained executable that:
 
 ---
 
+Checksum
+SHA256 hash:  3575f4329997bcd035438a2962272743351a1c5d1106679a1e8d21800ec5cebc
+
+---
+
 ## Installation & Requirements
 
 - **Operating System:** Windows (tested on Windows 10 and above)
