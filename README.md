@@ -5,14 +5,14 @@
 **Company:** Kanawha IT Security LLC  
 **Copyright:** Kanawha IT Security LLC 2025
 
-Fetcher is a standalone SFTP interface designed specifically for clients. It provides a user-friendly, console-based interface that allows users to log in, browse remote directories, download individual files or entire directories, and navigate through folder structures securely and efficiently.
+Fetcher is a standalone SFTP interface designed specifically for my clients. It provides a user-friendly, console-based interface that allows users to log in, browse remote directories, download individual files or entire directories, and navigate through folder structures securely and efficiently.
 
 ---
 
 ## Overview
 
 Fetcher is a self-contained executable that:
-- Connects to an SFTP server using user-supplied credentials.
+- Connects to my SFTP server using user-supplied credentials.
 - Presents an intuitive, menu-driven interface for file operations.
 - Enables file downloads and directory navigation.
 - Embeds all necessary dependencies (including `WinSCPnet.dll`) for ease of deployment.
@@ -23,7 +23,7 @@ Fetcher is a self-contained executable that:
 ## Features
 
 - **Secure SFTP Connection:**  
-  Connect to your SFTP server by simply entering your username and password.
+  Connect to my SFTP server by simply entering your username and password.
 
 - **Interactive Menu:**  
   Navigate the remote directory structure with options to:
@@ -67,7 +67,7 @@ Fetcher is a self-contained executable that:
    - **Logout:** Option 6 closes the connection and exits the application.
 
 4. **Help Screen:**  
-   The help screen provides detailed instructions and troubleshooting tips. It remains on-screen until you press Enter.
+   The help screen provides detailed instructions. It remains on-screen until you press Enter.
 
 
 ---
